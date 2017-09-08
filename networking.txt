@@ -1,1 +1,8 @@
-When the user type in a website address our device(client) will connect directly to that server
+When the user type in a url/website(http...) address our device(client)'s browser
+will send a HTTP request to connect(TCP) directly to that server(ip address). There
+is always a delay in MS(milliseconds) from the time you press enter after typing in
+an address to displaying the requested website onto your browser. Incoming content or request
+consist of cookies which have special information on user and web file written kn specific
+languages, for example Javascript. The web server kicks in and will find the correct
+program to read/execute the content in that language through our browser. Our browser will
+load the file and display it onto our monitor.

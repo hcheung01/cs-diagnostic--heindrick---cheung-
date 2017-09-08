@@ -1,4 +1,4 @@
 
 Problem 4:
-Interpreted language must be converted to machine code(high level to low level language) before running
+Interpreted language must be converted(CLANG???) to machine code(high level to low level 0101001) before running
 Compiled can run directly with the CPU
