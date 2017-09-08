@@ -1,0 +1,1 @@
+When the user type in a website address our device(client) will connect directly to that server
